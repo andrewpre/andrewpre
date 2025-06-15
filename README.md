@@ -23,7 +23,7 @@
 
 ## ➡️ About Me
 
-- 👋 Hi, I'm Andrew! I'm a full-stack developer.
+- 👋 Hi, I'm Andrew! I'm a software engineer!
 - 🎓 CS @ University at Buffalo
 - 💡 I enjoy creating tools that solve real-world problems!
 
