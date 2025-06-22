@@ -1,5 +1,5 @@
 # Hi there, I'm Andrew 👋
-## Prev SWE Intern @ Walmart Global Tech | CS @ University at Buffalo
+## Prev SWE Intern @ Vaive Logistics & Walmart Global Tech | CS @ University at Buffalo
 
 <div align="center">
   
