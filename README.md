@@ -1,26 +1,5 @@
 # Hi there, I'm Andrew 👋
 ## Prev SWE Intern @ Vaive Logistics & Walmart Global Tech | CS @ University at Buffalo
-
-<div align="center">
-  
-  ![](https://github.com/andrewpre/stats/blob/master/generated/overview.svg)
-  ![](https://github.com/andrewpre/stats/blob/master/generated/languages.svg)
-  
-</div>
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=andrewpre&show_icons=true&theme=tokyonight" 
-    alt="Andrew's GitHub stats" 
-    height="150"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewpre&layout=compact&theme=tokyonight" 
-    alt="Top Languages" 
-    height="150"
-  />
-</p>
-
 ## ➡️ About Me
 
 - 👋 Hi, I'm Andrew! I'm a software engineer!
@@ -107,3 +86,24 @@
 ## ♔ Favorite pastime
 
 Playing chess!
+
+<!--
+<div align="center">
+  
+  ![](https://github.com/andrewpre/stats/blob/master/generated/overview.svg)
+  ![](https://github.com/andrewpre/stats/blob/master/generated/languages.svg)
+  
+</div>
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=andrewpre&show_icons=true&theme=tokyonight" 
+    alt="Andrew's GitHub stats" 
+    height="150"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewpre&layout=compact&theme=tokyonight" 
+    alt="Top Languages" 
+    height="150"
+  />
+</p>
+-->
